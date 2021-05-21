@@ -144,7 +144,7 @@ Valid combinations for Release-DataType-DataSubType are as follows:
 
 ## Return object
 
-The responce object that is returned will be based on the files that were submitted.
+The response object that is returned will be based on the files that were submitted.
 
 ### Success example
 
